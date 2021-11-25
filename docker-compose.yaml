@@ -1,0 +1,12 @@
+version: "3"
+
+services:
+  web:
+    build:
+      context: ./
+      dockerfile: ./Dockerfile
+    container_name: gf-vue-admin-web
+    restart: always
+    ports:
+      - '80:80'
+    command: [ 'nginx-debug', '-g', 'daemon off;' ]
