@@ -6,7 +6,7 @@ module.exports = {
     onBrokenLinks: 'throw',
     favicon: 'img/favicon.ico',
     organizationName: 'flipped-aurora', // Usually your GitHub org/user name.
-    projectName: 'gf-vue-admin', // Usually your repo name.
+    projectName: 'gf-vue-admin.com', // Usually your repo name.
     themeConfig: {
         colorMode: {
             disableSwitch: true,
