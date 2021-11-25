@@ -135,7 +135,3 @@ git merge main/master
 # 如果要删除同步源，执行`git remote rm [本地别名]`
 git remote rm main
 ```
-
-
-
-### 
