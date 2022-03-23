@@ -125,7 +125,6 @@ module.exports = {
             {
                 docs: {
                     // It is recommended to set document id as docs home page (`docs/` path).
-                    homePageId: 'introduce',
                     sidebarPath: require.resolve('./sidebars.js'),
                 },
                 theme: {

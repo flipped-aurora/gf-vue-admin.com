@@ -1,5 +1,6 @@
 ---
 id: introduce
+slug: /
 title: 项目介绍
 ---
 <div align="center">
