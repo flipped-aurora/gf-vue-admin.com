@@ -7,7 +7,6 @@ module.exports = {
     favicon: 'img/favicon.ico',
     organizationName: 'flipped-aurora', // Usually your GitHub org/user name.
     projectName: 'gf-vue-admin.com', // Usually your repo name.
-    deploymentBranch: 'deploy',
     themeConfig: {
         colorMode: {
             disableSwitch: true,
